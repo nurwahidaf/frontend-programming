@@ -26,7 +26,7 @@ let users = [
     major: 'Informatics'
   },
   {
-    name: Hikma,
+    name: 'Hikma',
     age: 20,
     major: 'Informatics'
   }
